@@ -13,9 +13,9 @@
   
 ## Principais projetos
 <div align="center">
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=ignews&theme=jolly"/>
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=Portfolio-Juliana&theme=jolly"/>
-  <img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=dtmoney&theme=jolly"/>
+  <a href="https://github.com/joaovnogueira/ignews"><img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=ignews&theme=jolly"/></a>
+  <a href="https://github.com/joaovnogueira/Portfolio_Juliana"><img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=Portfolio-Juliana&theme=jolly"/></a>
+  <a href="https://github.com/joaovnogueira/dtmoney"><img height="100em"  src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=dtmoney&theme=jolly"/></a>
 </div>
 
 
