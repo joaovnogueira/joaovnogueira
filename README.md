@@ -1,7 +1,7 @@
 # Hello World!
 
-- 👋 Meu nome é João Victor, tenho 18 anos e sou iniciante na área de programação.
-- 👀 Estou interessado em ser programador Júnior ou estagiário, atualmente faço graduação em Engenharia de Controle e Automação
+- 👋 Meu nome é João Victor, tenho 19 anos e sou iniciante na área de programação.
+- 👀 Estou interessado em ser programador Júnior ou estagiário, atualmente faço graduação em Sistemas de Informação
 - 🌱 Estou estudando ReactJS, TypeScript, JavaScript, HTML e CSS
 - 📫 Linkedin: https://www.linkedin.com/in/joaovictornogueira/
 
