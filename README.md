@@ -15,7 +15,6 @@
 <div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=ignews&theme=jolly"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=Portfolio-Juliana&theme=jolly"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=joaovnogueira&repo=letmeask&theme=jolly"/>
 </div>
 
 
