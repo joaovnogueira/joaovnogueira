@@ -1,6 +1,6 @@
 # Hello World!
 
-- 👋 Meu nome é João Victor, tenho 21 anos.
+- 👋 Meu nome é João Victor, tenho 22 anos.
 - 👀 Atualmente sou Analista de BI Jr
 - <a href="https://www.linkedin.com/in/joaovictornogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
