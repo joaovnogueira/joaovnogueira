@@ -1,7 +1,7 @@
 # Hello World!
 
-- 👋 Meu nome é João Victor, tenho 22 anos.
-- 👀 Atualmente sou Analista de BI Jr
+- 👋 My name is João Victor, I'm 22 years.
+- 👀 Actually I'm a BI/Data Analyst
 - <a href="https://www.linkedin.com/in/joaovictornogueira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
